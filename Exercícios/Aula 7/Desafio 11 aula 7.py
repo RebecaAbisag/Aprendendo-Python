@@ -1,0 +1,5 @@
+f = input('Qual o nome do funcionario ?')
+sa = float(input('Qual é o salário  atual ? '))
+ps = int(input('Qual a porcentagem de ajuste de salário ? '))
+c= sa+(sa*(ps/100))
+print (f'O funcionario {f}, ganhou um aumento de {ps}%, e seu salário atual é de {c}!')
