@@ -18,6 +18,3 @@ if porcentagem <= 30:
     print ('\u2705 Parabéns seu financiamento foi aprovado pois ele foi menor que 30%!\U0001F600')
 else:
     print ('\u274c Seu emprestimo não foi aprovado, ele foi maior que 30% do seu salário, tente uma proxima!\U0001F622')
-
-
-
